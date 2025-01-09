@@ -73,7 +73,7 @@ class AlienInvasion:
             self.stats.reset_stats()
             self.sb.prep_score()
             self.sb.prep_level()
-            self.sb.prep_ships()
+            self.sb.prep_ships()    
 
             # Start the game
             self.game_active = True
